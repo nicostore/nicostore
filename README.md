@@ -1,7 +1,7 @@
 ![Header](./profile-github.png)
 
 ### My Contact
-![https://t.me/nikonabena_zt](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://t.me/nikonabena_zt/](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
 ### My Skills
